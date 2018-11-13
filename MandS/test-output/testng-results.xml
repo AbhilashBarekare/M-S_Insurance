@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47937" started-at="2018-11-13T02:37:57Z" finished-at="2018-11-13T02:38:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47937" started-at="2018-11-13T02:37:57Z" finished-at="2018-11-13T02:38:45Z">
+      <class name="pageAction.myProperty">
+        <test-method status="PASS" signature="propDetails()[pri:0, instance:pageAction.myProperty@6a4f787b]" name="propDetails" duration-ms="5469" started-at="2018-11-13T02:38:40Z" finished-at="2018-11-13T02:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propDetails -->
+      </class> <!-- pageAction.myProperty -->
+      <class name="pageAction.yourDetails">
+        <test-method status="PASS" signature="basicDetail()[pri:0, instance:pageAction.yourDetails@604ed9f0]" name="basicDetail" duration-ms="42406" started-at="2018-11-13T02:37:57Z" finished-at="2018-11-13T02:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicDetail -->
+      </class> <!-- pageAction.yourDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
